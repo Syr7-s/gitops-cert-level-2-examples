@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Sy7r-s/gitops-cert-level-2-examples.git
+    repoURL: https://github.com/Syr7-s/gitops-cert-level-2-examples.git
     targetRevision: HEAD
     path: ./custom-diff/02-external-app
    
